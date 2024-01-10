@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9440211f26c53df478bbb1bd5b6548cb, type: 3}
+  m_Name: Carrot Soup
+  m_EditorClassIdentifier: 
+  _ingredients:
+  - {fileID: 11400000, guid: ad1cdd7e6e123a94ab010135233c247a, type: 2}
+  - {fileID: 11400000, guid: 51db81f378a52d746bdf02bbdc1cf70c, type: 2}
+  - {fileID: 11400000, guid: ddbc2c1500b436f46b559c9247221472, type: 2}
+  _output: {fileID: 11400000, guid: def36890cf9bece48b42a023ab9bd380, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6fdbb2f1da6ae429503df6c5bac419, type: 3}
+  m_Name: Kitchen Data Service
+  m_EditorClassIdentifier: 
+  _ingredients:
+  - {fileID: 11400000, guid: ad1cdd7e6e123a94ab010135233c247a, type: 2}
+  - {fileID: 11400000, guid: 18ca95bd9c627924aa11056f4a38bc90, type: 2}
+  - {fileID: 11400000, guid: 151118c78197a2c4ab165e64fde66782, type: 2}
+  - {fileID: 11400000, guid: 51db81f378a52d746bdf02bbdc1cf70c, type: 2}
+  - {fileID: 11400000, guid: 287b10a1f19186b48be549d3eb4b46d9, type: 2}
+  - {fileID: 11400000, guid: ddbc2c1500b436f46b559c9247221472, type: 2}
+  _recipes:
+  - {fileID: 11400000, guid: 5fa6bd8c79e6bcf4199cf87e43ddeb5e, type: 2}
+  - {fileID: 11400000, guid: 76dc9ff6fd9a6644fbb2438ab6f3c441, type: 2}
+  - {fileID: 11400000, guid: 7991bc57a433b1545b9e8a575905345f, type: 2}
+  _meals:
+  - {fileID: 11400000, guid: def36890cf9bece48b42a023ab9bd380, type: 2}
+  - {fileID: 11400000, guid: 21da58e28b10b374f83ec5f869d44897, type: 2}
+  - {fileID: 11400000, guid: 07d4a694a676bf643867020d179c066c, type: 2}
