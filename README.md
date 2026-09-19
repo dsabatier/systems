@@ -1,3 +1,7 @@
+# Systems
+
+## Overview
+
 Data-driven building blocks for resources, inventories, and conversions in Unity.
 
 The Economy module provides a small set of interfaces for modelling resources and the rules that transform them. It is designed to keep game logic separate from data while allowing systems such as shops, crafting, cooking, inventories, relationship mechanics, and player progression to communicate through explicit contracts.
