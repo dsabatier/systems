@@ -116,8 +116,3 @@ For more complex rules, keep validation and mutation in the converter or an appl
 - **Explicit boundaries:** systems communicate through small adapter interfaces.
 - **Stable identity:** `Guid` identifiers allow data references to remain independent from their unique context.
 - **Composable systems:** inventories, converters, data services, and UI can be replaced independently.
-
-
-## License
-
-See the repository root for the project's license and contribution information.
